@@ -1,6 +1,7 @@
 
 
+
 # Parcial-2-IUB
 
-# Diagrama https://drive.google.com/file/d/1hQOfoHbzNILu2dUMCh1eTR4HCKbera5A/view?usp=sharing
+# Diagrama <img width="2062" height="1452" alt="Diagrama sin título drawio" src="https://github.com/user-attachments/assets/ac1d4741-d903-4ccb-9e3f-977acc11fd21" />
 
